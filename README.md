@@ -91,6 +91,41 @@ lineBoxes.forEach(function(lineBox) {
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 
+- 주요코드
+
+``` C
+// 경력불러오기 DB 토글
+    document.querySelectorAll('.info-wrap').forEach(function(infoWrap) {
+        infoWrap.addEventListener('click', function() {
+            var hiddenWrap = this.querySelector('.hidden-wrap');
+            var allHiddenWraps = document.querySelectorAll('.hidden-wrap');
+            var allInfoWraps = document.querySelectorAll('.info-wrap');
+
+            // 다른 .info-wrap 요소들에서 on 클래스 제거
+            allInfoWraps.forEach(function(item) {
+                if (item !== this) {
+                    item.classList.remove('on');
+                }
+            }, this);
+    
+            // 기존에 열려있는 .hidden-wrap 요소들을 닫음
+            allHiddenWraps.forEach(function(item) {
+                if (item !== hiddenWrap) {
+                    item.classList.remove('active');
+                }
+            });
+    
+            // 클릭한 .info-wrap 요소의 .hidden-wrap 요소가 존재하는지 확인 후 토글
+            if (hiddenWrap) {
+                hiddenWrap.classList.toggle('active');
+            }
+    
+            // 클릭한 .info-wrap 요소에 on 클래스를 토글
+            this.classList.toggle('on');
+        });
+    });
+```
+
 ###### 갼략 캡쳐본
 <table>
   <tbody>
