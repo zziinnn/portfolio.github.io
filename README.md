@@ -6,7 +6,7 @@
 <br />
 
 # 🖋 Intro
-> 안녕하세요! ***"도움이 되는 직원으로 성장하고 싶은"*** 김연진입니다. <br />
+> 안녕하세요! ***"도움이 되는 직원으로 성장하고 싶은"*** 3년차 퍼블리셔 김연진입니다. <br />
 > 최근 2년 동안 잡코리아의 UI 개발 부서에서 구축 및 유지보수 작업을 통해 퍼블리셔로서의 역량을 키워왔으며,  <br />
 > 배움을 통한 즐거움과 협업의 가치를 이해하며 지속적으로 성장하고 있습니다.
 <br />
@@ -25,7 +25,8 @@
 > - 퍼블리싱 : 50%
 > - 작업기간 : 1주
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
->  
+<br />
+
 ### ✔ 잡코리아 프로필 등록
 > - 담당업무 : 프로필 등록을 위한 팝업창 구축 및 유지보수
 > - 퍼블리싱 : 100%
@@ -33,7 +34,7 @@
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
  
-- 주요코드
+- #### 잡코리아 프로필 등록 주요코드
 
 ``` C
 var selectboxOptions = document.querySelectorAll('.line-box .selectbox-option');
@@ -103,7 +104,7 @@ lineBoxes.forEach(function(lineBox) {
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 
-- 주요코드
+- #### 건강보험공단 경력 불러오기 주요코드
 
 ``` C
 // 경력불러오기 DB 토글
