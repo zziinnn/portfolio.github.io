@@ -16,7 +16,7 @@
 ### ✔ 원픽
 > - 담당업무 : 잡코리아 원픽 개편 / 원픽 페이지 검수 지원
 > - 퍼블리싱 : 지원자관리 영역 100% / 원픽 페이지 40%
-> - 작업기간 : 5개월
+> - 작업기간 : 1개월
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 >
 >
