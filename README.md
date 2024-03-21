@@ -6,9 +6,17 @@
 <br />
 
 # 🖋 Intro
-> 안녕하세요! ***"도움이 되는 직원으로 성장하고 싶은"*** 3년차 퍼블리셔 김연진입니다. <br />
-> 최근 2년 동안 잡코리아의 UI 개발 부서에서 구축 및 유지보수 작업을 통해 퍼블리셔로서의 역량을 키워왔으며,  <br />
+> 안녕하세요! ***"도움이 되는 직원으로 성장하고 싶은"*** 3년차 퍼블리셔 김연진입니다.
+> 
+> 최근 2년 동안 잡코리아의 UI 개발 부서에서 구축 및 유지보수 작업을 통해 퍼블리셔로서의 역량을 키워왔으며, <br />
 > 배움을 통한 즐거움과 협업의 가치를 이해하며 지속적으로 성장하고 있습니다.
+>
+> 전문적이고 신속한 업무 처리 능력을 가지고 있어 업무 효율을 높이는 데에 기여하고 있습니다. <br />
+> 또한, 한상 동료등과의 협업을 중요시 여기며 우수한 결과물을 만들어낸 경험이 있습니다.<br />
+> 최근 프로필 등록 프로세스, 건강보험공단 경력 데이터 연동, 원픽, 잡코리아 내재역량테스트(mict) 등의 구축, 개편 경험을 통해 <br />
+> html, css, scss, figma, XD, git 웹페이지 제작 툴 사용 능력을 한층 향상시켰습니다.
+>
+> 앞으로도 저는 주체적으로 업무를 진행하고 올바른 목적을 위해 발전해 나가는 도움되는 퍼블리셔로 성장하고자 합니다.
 <br />
 
 # 🖥 Projects
@@ -18,8 +26,9 @@
 > - 퍼블리싱 : 지원자관리 영역 100% / 원픽 페이지 40%
 > - 작업기간 : 2개월
 > - Skill : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
->
->
+<br />
+
+
 - ### ✔ 잡코리아 내재역량테스트(MICT) 
 > - 담당업무 : MICT 개선잡업
 > - 퍼블리싱 : 50%
