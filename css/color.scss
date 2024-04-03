@@ -1,0 +1,63 @@
+$color-000: #000000;
+$color-111: #111111;
+$color-222: #222222;
+$color-333: #333333;
+$color-444: #444444;
+$color-555: #444444;
+$color-666: #666666;
+$color-777: #777777;
+$color-888: #888888;
+$color-999: #999999;
+$color-bbb: #bbbbbb;
+$color-ccc: #cccccc;
+$color-ddd: #dddddd;
+$color-eee: #eeeeee;
+$color-fff: #ffffff;
+$color-d2: #d2d2d2;
+$color-6a: #6a6a6a;
+$color-17: #171717;
+$color-d2: #D2D2D2;
+$color-d9: #D9D9D9;
+$color-9e: #9E9E9E;
+$color-e8: #E8E8E8;
+$color-b8: #B8B8B8;
+$color-f4: #F4F4F4;
+$color-f5: #F5F5F5;
+$color-f8: #F8F8F8;
+$color-FFFA65 : #FFFA65;
+$color-f4fcff:#F4FCFF;
+$color-f0f5ff: #f0f5ff;
+$color-f2f4f7: #f2f4f7;
+$color-002ff: #002AFF;
+$color-FF0000: #FF0000;
+$color-f1f5fb:#F1F5FB;
+$color-6a6a6a: #6A6A6A;
+$color-3B65FF: #3B65FF;
+
+// 포인트
+$color-primary: rgba(0, 42, 255, 1);
+$color-orange: #ff501b;
+$color-green: #00b0a6;
+$color-purple: #5e2bb8;
+$color-navy: #1F429D;
+$color-point: #B8FF00;
+
+
+// filter 색상
+$filter-E0E0E0: brightness(0) saturate(100%) invert(99%) sepia(1%) saturate(351%) hue-rotate(320deg) brightness(93%) contrast(90%);
+$filter-bbbbbb: brightness(0) saturate(100%) invert(83%) sepia(0%) saturate(0%) hue-rotate(156deg) brightness(90%) contrast(96%);
+$filter-b8b8b8: brightness(0) saturate(100%) invert(68%) sepia(4%) saturate(0%) hue-rotate(72deg) brightness(103%) contrast(103%);
+$filter-cccccc: brightness(0) saturate(100%) invert(93%) sepia(0%) saturate(491%) hue-rotate(137deg) brightness(91%) contrast(87%);
+$filter-999999: brightness(0) saturate(100%) invert(67%) sepia(1%) saturate(162%) hue-rotate(103deg) brightness(93%) contrast(86%);
+$filter-002AFF: brightness(0) saturate(100%) invert(22%) sepia(32%) saturate(6963%) hue-rotate(192deg) brightness(102%) contrast(102%);
+$filter-222222: brightness(0) saturate(100%) invert(10%) sepia(15%) saturate(9%) hue-rotate(352deg) brightness(87%) contrast(90%);
+$filter-333333: brightness(0) saturate(100%) invert(22%) sepia(0%) saturate(5144%) hue-rotate(321deg) brightness(103%) contrast(111%);
+$filter-000000: brightness(0) saturate(100%) invert(0%) sepia(100%) saturate(7500%) hue-rotate(59deg) brightness(89%) contrast(111%);
+$filter-ffffff: brightness(0) saturate(100%) invert(100%) sepia(47%) saturate(2%) hue-rotate(294deg) brightness(113%) contrast(100%);
+$filter-171717: brightness(0) saturate(100%) invert(4%) sepia(13%) saturate(17%) hue-rotate(314deg) brightness(102%) contrast(89%);
+$filter-6a6a6a: brightness(0) saturate(100%) invert(43%) sepia(2%) saturate(13%) hue-rotate(37deg) brightness(93%) contrast(89%);
+$filter-9e9e9e: brightness(0) saturate(100%) invert(67%) sepia(8%) saturate(33%) hue-rotate(330deg) brightness(96%) contrast(81%);
+$filter-d2d2d2: brightness(0) saturate(100%) invert(95%) sepia(0%) saturate(682%) hue-rotate(153deg) brightness(101%) contrast(70%);
+$filter-D9D9D9: brightness(0) saturate(100%) invert(100%) sepia(16%) saturate(19%) hue-rotate(305deg) brightness(93%) contrast(82%);
+$filter-primary: brightness(0) saturate(100%) invert(10%) sepia(100%) saturate(7500%) hue-rotate(238deg) brightness(96%) contrast(115%);
+$filter-002aff: brightness(0) saturate(100%) invert(12%) sepia(98%) saturate(5809%) hue-rotate(237deg) brightness(93%) contrast(119%);
